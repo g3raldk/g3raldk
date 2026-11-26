@@ -23,8 +23,8 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 ### 🏠 After hours
 
 - 🏡 Home Assistant with over 2,500 entities across two sites, linked by a site-to-site VPN
-- 📡 Zigbee through Zigbee2MQTT, Thread and Matter through an OpenThread border router, plus plenty of Shellys via Wi-Fi and Philips Hue. My DHCP reservation list is longer than my contact list.
-- 🔌 ESP32 + ESPHome: Bluetooth proxies, a touch panel in the kitchen, more on the way (my AliExpress order history agrees)
+- 📡 Zigbee through Zigbee2MQTT, Thread and Matter through an OpenThread border router, plus plenty of Shellys via Wi-Fi and Philips Hue. My DHCP reservation list is nearly longer than my contact list.
+- 🔌 ESP32 + ESPHome: Bluetooth proxies, a touch panel in the kitchen, more on the way (my order history agrees)
 - ☁️ Local-first: if a light switch needs the cloud to work, it doesn't get into my home
 
 ![Home Assistant](badges/home-assistant.svg)
