@@ -11,12 +11,12 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 - 🔐 Mail flow and authentication: transport rules, EOP, SPF, DKIM, DMARC
 - ⌨️ PowerShell for anything I have to do more than twice
 
-![Exchange Server](https://img.shields.io/badge/Exchange_Server-0078D4?style=for-the-badge)
-![Exchange Online](https://img.shields.io/badge/Exchange_Online-28A8EA?style=for-the-badge)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge)
-![Entra ID](https://img.shields.io/badge/Entra_ID-7FBA00?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
-![DMARC](https://img.shields.io/badge/SPF_%C2%B7_DKIM_%C2%B7_DMARC-2B2B2B?style=for-the-badge)
+![Exchange Server](badges/exchange-server.svg)
+![Exchange Online](badges/exchange-online.svg)
+![Microsoft 365](badges/microsoft-365.svg)
+![Entra ID](badges/entra-id.svg)
+![PowerShell](badges/powershell.svg)
+![DMARC](badges/dmarc.svg)
 
 ### 🏠 After hours
 
@@ -25,30 +25,30 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 - 🔌 ESP32 + ESPHome: Bluetooth proxies, a touch panel in the kitchen, more on the way
 - ☁️ Local-first: if a light switch needs the cloud to work, it doesn't get into my home
 
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)
-![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![nRF52840](https://img.shields.io/badge/nRF52840-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white)
-![Zigbee2MQTT](https://img.shields.io/badge/Zigbee2MQTT-FFC135?style=for-the-badge&logo=zigbee2mqtt&logoColor=black)
-![Thread](https://img.shields.io/badge/Thread-3D3D3D?style=for-the-badge)
-![Matter](https://img.shields.io/badge/Matter-4A4A4A?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Shelly](https://img.shields.io/badge/Shelly-4495D1?style=for-the-badge&logo=shelly&logoColor=white)
-![Philips Hue](https://img.shields.io/badge/Philips_Hue-0065D3?style=for-the-badge&logo=philipshue&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
+![Home Assistant](badges/home-assistant.svg)
+![ESPHome](badges/esphome.svg)
+![ESP32](badges/esp32.svg)
+![nRF52840](badges/nrf52840.svg)
+![Zigbee2MQTT](badges/zigbee2mqtt.svg)
+![Thread](badges/thread.svg)
+![Matter](badges/matter.svg)
+![MQTT](badges/mqtt.svg)
+![Shelly](badges/shelly.svg)
+![Philips Hue](badges/philips-hue.svg)
+![YAML](badges/yaml.svg)
+![Python](badges/python.svg)
+![Bambu Lab](badges/bambu-lab.svg)
 
 <details>
 <summary>🖥️ What it all runs on</summary>
 <br>
 
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Checkmk](https://img.shields.io/badge/Checkmk-15D1A0?style=for-the-badge&logo=checkmk&logoColor=black)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Proxmox](badges/proxmox.svg)
+![Ubuntu](badges/ubuntu.svg)
+![UniFi](badges/unifi.svg)
+![WireGuard](badges/wireguard.svg)
+![Checkmk](badges/checkmk.svg)
+![Claude Code](badges/claude-code.svg)
 
 </details>
 
@@ -67,8 +67,8 @@ My home runs two redundant DNS servers and its own NTP service, synced to the at
 
 ### 📫 Get in touch
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/YOUR_LINKEDIN) -->
-[![ITdesign](https://img.shields.io/badge/itdesign.at-1F2937?style=for-the-badge)](https://www.itdesign.at)
+<!-- [![LinkedIn](badges/linkedin.svg)](https://www.linkedin.com/in/YOUR_LINKEDIN) -->
+[![ITdesign](badges/itdesign.svg)](https://www.itdesign.at)
 
 <!--
 Optional: GitHub stats. Only worth it once there is some public activity,
