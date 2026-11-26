@@ -56,9 +56,9 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 
 | Project | Hardware | Status |
 |---|---|---|
+| Ratelimit Gotchi: a desk companion with big, expressive eyes that shows my Claude usage from Home Assistant and reacts to voices, taps and being picked up | ESP32-S3 Super Mini, 2" ST7789 LCD, INMP441 microphone, LSM6DS3 motion sensor, 3D-printed case | 🧪 prototyping |
 | Kitchen panel: dishwasher program, remaining time and the cabinet lights at a glance | Guition ESP32-S3 4848S040, self-designed 3D-printed stand | ✅ running |
 | Battery-powered deco lights, switchable from Home Assistant, with an honest battery level | Seeed XIAO nRF52840 + ESPHome | 🧪 prototyping |
-| Smart light switches, including three two-way circuits | Shelly 1PM Mini Gen3 + Hue wall switch modules | 📐 planned |
 | Energy monitoring for the whole apartment | Shelly 3EM, Shelly EM Gen3 | 📐 planned |
 
 ### ⚡ Fun fact
