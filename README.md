@@ -63,7 +63,7 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 
 ### ⚡ Fun fact
 
-My home runs two redundant DNS servers and its own NTP service, synced to the atomic clocks at PTB in Braunschweig. When something breaks, it's still DNS.
+My home runs two redundant DNS servers and its own NTP service, synced to the atomic clocks at PTB in Braunschweig. When something breaks, it's still DNS. Always 😉
 
 <!--
 Optional: GitHub stats. Only worth it once there is some public activity,
