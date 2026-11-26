@@ -1,6 +1,6 @@
 ## Hi, I'm Gerald 👋
 
-**Exchange by day · ESPHome by night**
+**Exchange by day · ESPHome by night** **(Mail flow by day · YAML by night 💪)**
 
 I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://www.itdesign.at), a vendor-independent IT consultancy. For more than 25 years my job has been making sure e-mail ends up where it belongs. Once the laptop is closed, the tinkering starts: my apartment runs on Home Assistant, a growing number of ESP32 boards and a 3D printer that prints their enclosures.
 
