@@ -6,10 +6,11 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 
 ### 💼 Day job
 
-- 📬 Exchange Server and Microsoft 365/Azure: hybrid setups, DAGs, upgrades and the occasional rescue mission
+- 📬 Exchange Server, Microsoft 365 (364 😜) and Azure: hybrid setups, DAGs, upgrades and the occasional rescue mission
 - 🚚 Mail migrations of every kind – on-prem to the cloud, tenant to tenant after an acquisition, even GroupWise or Notes to Exchange Online
+- 😰 Troubleshooting: "nobody changed anything" is my favourite starting point
 - 🔐 Mail flow and authentication: transport rules, EOP, SPF, DKIM, DMARC
-- ⌨️ PowerShell for anything
+- ﹟ PowerShell for anything 
 
 ![Exchange Server](badges/exchange-server.svg)
 ![Exchange Online](badges/exchange-online.svg)
