@@ -6,10 +6,10 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 
 ### 💼 Day job
 
-- 📬 Exchange Server and Exchange Online: hybrid setups, DAGs, upgrades and the occasional rescue mission
-- 🚚 Mail migrations of every kind – on-prem to the cloud, tenant to tenant after an acquisition, even GroupWise to Exchange Online
+- 📬 Exchange Server and Microsoft 365/Azure: hybrid setups, DAGs, upgrades and the occasional rescue mission
+- 🚚 Mail migrations of every kind – on-prem to the cloud, tenant to tenant after an acquisition, even GroupWise or Notes to Exchange Online
 - 🔐 Mail flow and authentication: transport rules, EOP, SPF, DKIM, DMARC
-- ⌨️ PowerShell for anything I have to do more than twice
+- ⌨️ PowerShell for anything
 
 ![Exchange Server](badges/exchange-server.svg)
 ![Exchange Online](badges/exchange-online.svg)
@@ -20,8 +20,8 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 
 ### 🏠 After hours
 
-- 🏡 Home Assistant with around 2,000 entities across two sites, linked by a site-to-site VPN
-- 📡 Zigbee through Zigbee2MQTT, Thread and Matter through an OpenThread border router, plus plenty of Shelly and Hue
+- 🏡 Home Assistant with over 2.500 entities across two sites, linked by a site-to-site VPN
+- 📡 Zigbee through Zigbee2MQTT, Thread and Matter through an OpenThread border router, plus plenty of Shellys via WiFi and Philips Hue
 - 🔌 ESP32 + ESPHome: Bluetooth proxies, a touch panel in the kitchen, more on the way
 - ☁️ Local-first: if a light switch needs the cloud to work, it doesn't get into my home
 
