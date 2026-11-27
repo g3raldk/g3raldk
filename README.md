@@ -40,18 +40,18 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 ![YAML](badges/yaml.svg)
 ![Python](badges/python.svg)
 ![Bambu Lab](badges/bambu-lab.svg)
-![Proxmox](badges/proxmox.svg)
-![Ubuntu](badges/ubuntu.svg)
-![VS Code](badges/vs-code.svg)
 
-<details>
+<details open>
 <summary>🖥️ What it all runs on</summary>
 <br>
 
+![Proxmox](badges/proxmox.svg)
+![Ubuntu](badges/ubuntu.svg)
 ![UniFi](badges/unifi.svg)
 ![WireGuard](badges/wireguard.svg)
 ![Checkmk](badges/checkmk.svg)
 ![Claude Code](badges/claude-code.svg)
+![VS Code](badges/vs-code.svg)
 
 </details>
 
