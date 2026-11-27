@@ -8,9 +8,10 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 
 - 📬 Exchange Server, Microsoft 365 (364 😜) and Azure: hybrid setups, DAGs, upgrades and the occasional rescue mission
 - 🚚 Mail migrations of every kind – on-prem to the cloud, tenant to tenant after an acquisition, even GroupWise or Lotus Notes to Exchange Online (yes, they still exist)
-- 😰 Troubleshooting: "nobody changed anything" is my favourite starting point
 - 🔐 Mail flow and authentication: transport rules, EOP, SPF, DKIM, DMARC, or: why your newsletter lands in spam
+- 🍏 Windows since there was Windows, yet my daily driver is a MacBook: Office, Teams, PowerShell modules, admin centers and RDP all just work. Don't tell Redmond.
 - 💻 PowerShell for anything, because the admin center moved that button again
+- 😰 Troubleshooting: "nobody changed anything" is my favourite starting point
 
 ![Exchange Server](badges/exchange-server.svg)
 ![Exchange Online](badges/exchange-online.svg)
