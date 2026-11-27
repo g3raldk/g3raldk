@@ -62,7 +62,7 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 | Kitchen panel: dishwasher program, remaining time and the cabinet lights at a glance, because the dishwasher's own status light shines where nobody can see it | Guition ESP32-S3 4848S040, self-designed 3D-printed stand, ESPHome | ✅ running |
 | Bluetooth proxies, tiny as sugar cubes, because Bluetooth gives up after one wall and my apartment has more than one | 2 × M5Stack Atom Lite, ESPHome | ✅ running |
 | Ratelimit Gotchi: a desk companion with big, expressive eyes that shows my Claude usage from Home Assistant and reacts to voices, taps and being picked up | ESP32-S3 Super Mini, 2" ST7789 LCD, INMP441 microphone, LSM6DS3 motion sensor, 3D-printed case, ESPHome | 🧪 prototyping |
-| Dumb battery deco lights, now switchable from Home Assistant, without eating their batteries: the brain sleeps more than I do, the AAs last for months | Seeed XIAO nRF52840 as Zigbee sleepy end device, ESPHome | 🧪 prototyping |
+| Dumb battery deco lights, now switchable from Home Assistant, without eating their batteries: the brain sleeps more than I do, the AAs last for months | Seeed XIAO nRF52840 as Zigbee sleepy end device, IRLML6244 MOSFET as switch, ESPHome | 🧪 prototyping |
 | Energy monitoring for the whole apartment, so I finally know what the espresso machine costs me | Shelly 3EM, Shelly EM Gen3 | 📐 planned |
 
 ### ⚡ Fun fact
