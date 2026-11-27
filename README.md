@@ -48,6 +48,7 @@ I'm an IT consultant from Vienna, Austria, and a partner at [ITdesign](https://w
 
 ![Proxmox](badges/proxmox.svg)
 ![Ubuntu](badges/ubuntu.svg)
+![macOS](badges/macos.svg)
 ![UniFi](badges/unifi.svg)
 ![WireGuard](badges/wireguard.svg)
 ![Checkmk](badges/checkmk.svg)
